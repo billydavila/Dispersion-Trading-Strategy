@@ -30,8 +30,7 @@ Below we can see the required data and the strategy idea on a nutshell.
 
 # Financial Data 
 
-All options index data for the BankNifty index and its constituents( AxisBank, IciBank, HDFCBank, KotakBank, SBIN) was previously downloaded using the python library  
-nsepy. Later, all data was merged and stored on a single csv file for reuseability purposes. The dates ranges from 07/2017 to 12/2017 and there might be duplicate data which will be and can be handled during the preprocess stage. 
+All options index data for the BankNifty index and its constituents( AxisBank, IciBank, HDFCBank, KotakBank, SBIN) was previously downloaded using the python library nsepy. Later, all data was merged and stored on a single csv file for reuseability purposes. The dates ranges from 07/2017 to 12/2017 and there might be duplicate data which will be and can be handled during the preprocess stage. 
 
 
 # Conclusions
