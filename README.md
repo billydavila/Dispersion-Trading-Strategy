@@ -34,7 +34,7 @@ All options index data for the BankNifty index and its constituents( AxisBank, I
 
 
 # Conclusions
-Final thoughts, dispersion trading is a complex strategy. However, this is rewarded with the strategy being a profitable one which offers high rewards in response to low risk. For this particular case, we saw the profitable gains achieved while executing the strategy. However, transactions fees were neglected and not considered on the PnL calculation. One thing to keep in mind is that the strategy could be improved by decrease the time interval to capture the implied volatility and accordingly dirty implied correlation. 
+Final thoughts, dispersion trading is a complex strategy. However, this is rewarded with the strategy being a profitable one which offers high rewards in response to low risk. For this particular case, we saw the profitable gains achieved while executing the strategy. However, transactions fees were neglected and not considered on the PnL calculation. One thing to keep in mind is that the strategy could be improved by decreasing the time interval to capture the implied volatility and accordingly dirty implied correlation. 
   
 
  
